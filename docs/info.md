@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Explore AND, OR, and NOT using 1 and 0.
 
 ## How to test
-
-Explain how to use your project
+By setting the switches to 0 or 1, the result will be displayed on the 4 LEDs.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+2 and, 2 or, 1 Xor, 1 sw, resistencia, 4 leds, input, output
